@@ -1,0 +1,25 @@
+{
+  "name": "hurricaneinsurance-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunaymiri/HurricaneInsurance-QA.git"
+  },
+  "author": "Gunay Miriyeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunaymiri/HurricaneInsurance-QA/issues"
+  },
+  "homepage": "https://github.com/gunaymiri/HurricaneInsurance-QA#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}

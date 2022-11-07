@@ -1,0 +1,17 @@
+{
+  "common": {
+    "optionSelection": "//input/ancestor::form//descendant::label"
+  },
+  "homepage": {
+    "zipValidationMessage": ".MuiFormHelperText-root.Mui-error",
+    "pageHeader": "h1",
+    "zipInput": "input[name$='postalCode']",
+    "getQuoteBtn": ".MuiButton-label"
+  },
+  "waterProximity": {
+    "nextBtn": ".MuiButton-label"
+  },
+  "buildingMat": {
+    "nextBtn": "[data-testid=\"submit_cta\"]"
+  }
+}
